@@ -1,1 +1,3 @@
+# Adding the requirement here so pip can handle requirements conflicts
+# If your project also have a protobuf dependency 
 protobuf>=2.3.0
